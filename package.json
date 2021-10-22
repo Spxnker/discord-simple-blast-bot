@@ -1,0 +1,20 @@
+{
+ 
+  "name": "spanker-bumlatma",
+  "version": "0.0.1",
+  "description": "Spanker Patlatma bots",
+  "main": "spanker.js",
+  "scripts": {
+    "start": "node spanker.js"
+  },
+  "dependencies": {
+   
+    "discord.js": "^12.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT"
+ 
+}
